@@ -1,6 +1,6 @@
 # Ethical Analysis of Loan Approval Dataset
 
-## Try it out now -> <https://eshagarwal.github.io/Ethical-Issues-of-AI/>
+## Try it out now -> [DEPLOYED LINK](https://eshagarwal.github.io/Ethical-Analysis-of-Loan-Approval-Dataset-Ethical-Issues-of-AI/)
 
 ## Project Overview
 
